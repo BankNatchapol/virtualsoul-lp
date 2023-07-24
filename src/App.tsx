@@ -14,17 +14,21 @@ function App(): ReactElement {
             <div className="flex justify-center">
               <img width={180} src={Icon} alt="VirtualSoul Icon" />
             </div>
-            <h1 className="text-4xl font-bold tracking-tight text-gray-900 sm:text-6xl">
-              Introducing <br />
-              VirtualSoul-AI.
+            <h1 className="text-3xl font-bold tracking-tight text-gray-900 sm:text-5xl">
+              <span>Welcome to the World of</span>
               <br />
-              <span className="text-2xl font-bold tracking-tight text-gray-600 sm:text-4xl">
-                Like ChatGPT , but with Avatar Characters and More interaction
+            </h1>
+            <h1 className="text-5xl font-bold tracking-tight text-gray-900 sm:text-6xl">
+              VirtualSoul-AI
+            </h1>
+            <br />
+            <h1>
+              <span className="text-1xl font-bold tracking-tight text-gray-600 sm:text-3xl">
+                Engaging Conversations, Dynamic Avatars, and Interactive Experiences Redefined
               </span>
             </h1>
             <p className="mt-6 text-lo leading-8 text-gray-600">
-              VirtualSoul-AI is services using chatGPT for create Artificial life with many platforms interaction 3D Model, Metahuman model and  2D Model. with our services you can create many thing such like Avatar Chatbot, AI Influencer , AI Vtuber , AI Branding Characters and
-              <br />whatever you must like !! ❤️
+              VirtualSoul-AI: Empowering creativity with AI. Our advanced language models bring life to 3D, Metahuman, and 2D characters across platforms. From AI chatbots to live streamers and unique brand personas, explore endless possibilities with us. Create, engage, love!
               {/* <a href="https://blackbearlabs.ai">Virtualsoul-labs.ai</a> */}
             </p>
             <div className="mt-10 flex items-center justify-center gap-x-6">
@@ -32,22 +36,24 @@ function App(): ReactElement {
               <a href="about-project.html" className="text-sm font-semibold leading-6 text-gray-900">Learn more <span aria-hidden="true">→</span></a>
             </div>
           </div>
-          <div className="flow-roor sm:mt-24 p-16 text-center">
+          <div className="flex flex-col flow-roor sm:mt-24 p-16 text-center  items-center">
             <div className="-m-2 mb-10 rounded-xl lg:-m-4 lg:rounded-2xl lg:p-4">
               <span className="text-2xl font-bold tracking-tight text-gray-600 sm:text-4xl">
-                VirtualSoul-AI services for supports many platforms characters.
+                VirtualSoul-AI offers services to enhance characters across a variety of platforms.
               </span>
             </div>
-            <div className="-m-2 rounded-xl bg-gray-900/5 p-2 ring-1 ring-inset ring-gray-900/10 lg:-m-4 lg:rounded-2xl lg:p-4" >
-              <img width={1080} height={720} src={DemoBG} />
+            <div className="-m-2 max-w-5xl  rounded-xl bg-gray-900/5 p-2 ring-1 ring-inset ring-gray-900/10 lg:-m-4 lg:rounded-2xl lg:p-4 lg:mt-[16px]" >
+              <img width={1000} height={720} src={DemoBG} />
             </div>
           </div>
         </div>
         <div className="bg-white py-24 sm:py-32">
           <div className="mx-auto max-w-7xl px-6 lg:px-8">
             <div className="mx-auto max-w-2xl lg:text-center">
-              <h2 className="text-base font-semibold leading-7 text-indigo-600">What / Who is VisualSoul-Ai for?</h2>
-              <h3 className="font-normal">Who want to make our <span className="font-semibold text-red-600">characters branding to have life !!</span></h3>
+              <h2 className="text-base font-semibold leading-7 text-indigo-600">
+                Do you want to make your character branding come alive?
+              </h2>
+              <h3 className="font-semibold text-[24px] text-red-600">VisualSoul-AI is the answer!</h3>
             </div>
             <div className="mx-auto mt-16 max-w-2xl sm:mt-20 lg:mt-24 lg:max-w-4xl">
               <dl className="grid max-w-xl grid-cols-1 gap-x-8 gap-y-10 lg:max-w-none lg:grid-cols-2 lg:gap-y-16">
@@ -58,7 +64,7 @@ function App(): ReactElement {
                     </div>
                     Virtual Influencer
                   </dt>
-                  <dd className="mt-2 text-base leading-7 text-gray-600"> we understand how is hard to find someone to match with your brand Identity <br /> Let Create Them 🧑.</dd>
+                  <dd className="mt-2 text-base leading-7 text-gray-600">We recognize the challenge of finding a suitable match for your brand identity. Let's collaborate to shape them perfectly!</dd>
                 </div>
 
                 <div className="relative pl-16">
@@ -66,9 +72,9 @@ function App(): ReactElement {
                     <div className="absolute left-0 top-0 flex h-10 w-10 items-center justify-center rounded-lg ">
                       👋
                     </div>
-                    Event promote
+                    Event Promotion
                   </dt>
-                  <dd className="mt-2 text-base leading-7 text-gray-600">you need someone to promoting you online event 24 hr nonstop. Let using AI to do it !!!</dd>
+                  <dd className="mt-2 text-base leading-7 text-gray-600">Need continuous promotion for your online event? Utilize AI for 24-hour non-stop marketing!</dd>
                 </div>
 
                 <div className="relative pl-16">
@@ -76,9 +82,9 @@ function App(): ReactElement {
                     <div className="absolute left-0 top-0 flex h-10 w-10 items-center justify-center rounded-lg ">
                       👨&zwj;💻
                     </div>
-                    Ai Vtuber
+                    AI Vtuber
                   </dt>
-                  <dd className="mt-2 text-base leading-7 text-gray-600"> Ai VTuber !! can entertain your Fanclub even singsong. with customize personalize (sound, look, chat)</dd>
+                  <dd className="mt-2 text-base leading-7 text-gray-600">Experience the AI live streamer! It can entertain your fan club, even engage in sing-alongs. Enjoy customization options for sound and character personalization.</dd>
                 </div>
 
                 <div className="relative pl-16">
@@ -88,7 +94,7 @@ function App(): ReactElement {
                     </div>
                     Smart Avatar Chatbot
                   </dt>
-                  <dd className="mt-2 text-base leading-7 text-gray-600">If you know AI chatbot. you must love ❤️ avatar chatbot <br />more interaction and more smarter than normal chatbot. 🧑 </dd>
+                  <dd className="mt-2 text-base leading-7 text-gray-600">If you're familiar with AI chatbots, you're going to adore avatar chatbots. They offer more interaction and are considerably more intelligent than traditional chatbots. 💁‍♂️🧠</dd>
                 </div>
               </dl>
             </div>

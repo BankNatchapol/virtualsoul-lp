@@ -28,14 +28,14 @@ function App(): ReactElement {
               {/* <a href="https://blackbearlabs.ai">Virtualsoul-labs.ai</a> */}
             </p>
             <div className="mt-10 flex items-center justify-center gap-x-6">
-              <a href="" className="rounded-md bg-indigo-600 px-3.5 py-2.5 text-sm font-semibold text-white shadow-sm hover:bg-indigo-500 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-indigo-600">Contract us</a>
+              <a href="" className="rounded-md bg-indigo-600 px-3.5 py-2.5 text-sm font-semibold text-white shadow-sm hover:bg-indigo-500 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-indigo-600">Contact us</a>
               <a href="about-project.html" className="text-sm font-semibold leading-6 text-gray-900">Learn more <span aria-hidden="true">→</span></a>
             </div>
           </div>
           <div className="flow-roor sm:mt-24 p-16 text-center">
             <div className="-m-2 mb-10 rounded-xl lg:-m-4 lg:rounded-2xl lg:p-4">
               <span className="text-2xl font-bold tracking-tight text-gray-600 sm:text-4xl">
-                VirtualSoul-Ai services for supports many platforms characters.
+                VirtualSoul-AI services for supports many platforms characters.
               </span>
             </div>
             <div className="-m-2 rounded-xl bg-gray-900/5 p-2 ring-1 ring-inset ring-gray-900/10 lg:-m-4 lg:rounded-2xl lg:p-4" >
@@ -88,7 +88,7 @@ function App(): ReactElement {
                     </div>
                     Smart Avatar Chatbot
                   </dt>
-                  <dd className="mt-2 text-base leading-7 text-gray-600">If you know ai chatbot. you must love ❤️ avatar chatbot <br />more interaction and more smarter than normal chatbot. 🧑 </dd>
+                  <dd className="mt-2 text-base leading-7 text-gray-600">If you know AI chatbot. you must love ❤️ avatar chatbot <br />more interaction and more smarter than normal chatbot. 🧑 </dd>
                 </div>
               </dl>
             </div>
@@ -96,9 +96,9 @@ function App(): ReactElement {
         </div>
         <div className="bg-indigo-100">
           <div className="mx-auto max-w-7xl px-6 py-24 sm:py-32 lg:flex lg:items-center lg:justify-between lg:px-8">
-            <h2 className="text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl">Ready to Create new Life with AI?<br />Contract us Now.</h2>
+            <h2 className="text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl">Looking to breathe life into your character? <br />Reach out to us today !!</h2>
             <div className="mt-10 flex items-center gap-x-6 lg:mt-0 lg:flex-shrink-0">
-              <a href="" className="rounded-md bg-indigo-600 px-3.5 py-2.5 text-sm font-semibold text-white shadow-sm hover:bg-indigo-500 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-indigo-600">Contract us</a>
+              <a href="" className="rounded-md bg-indigo-600 px-3.5 py-2.5 text-sm font-semibold text-white shadow-sm hover:bg-indigo-500 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-indigo-600">Contact us</a>
             </div>
           </div>
         </div>

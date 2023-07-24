@@ -28,7 +28,7 @@ function App(): ReactElement {
               </span>
             </h1>
             <p className="mt-6 text-lo leading-8 text-gray-600">
-              VirtualSoul-AI: Empowering creativity with AI. Our advanced language models bring life to 3D, Metahuman, and 2D characters across platforms. From AI chatbots to live streamers and unique brand personas, explore endless possibilities with us. Create, engage, love!
+              VirtualSoul-AI: Empowering creativity with AI. Our advanced language models bring life to 3D, Metahuman, and 2D characters across platforms. From AI chatbots to live streamers and unique brand personas, explore endless possibilities with us. Create, engage, love!💖
               {/* <a href="https://blackbearlabs.ai">Virtualsoul-labs.ai</a> */}
             </p>
             <div className="mt-10 flex items-center justify-center gap-x-6">
@@ -82,7 +82,7 @@ function App(): ReactElement {
                     <div className="absolute left-0 top-0 flex h-10 w-10 items-center justify-center rounded-lg ">
                       👨&zwj;💻
                     </div>
-                    AI Vtuber
+                    AI Live Streamer
                   </dt>
                   <dd className="mt-2 text-base leading-7 text-gray-600">Experience the AI live streamer! It can entertain your fan club, even engage in sing-alongs. Enjoy customization options for sound and character personalization.</dd>
                 </div>

@@ -1,6 +1,6 @@
 import React, { ReactElement } from "react";
 import Navbar from "./components/navbar";
-import Icon from "../assets/Soul-ai-final-light-bg.png";
+import Icon from "../assets/Soul-ai-final-1.png";
 import DemoBG from "../assets/interface-bg.png";
 import Footer from "./components/footer";
 
@@ -32,7 +32,7 @@ function App(): ReactElement {
               {/* <a href="https://blackbearlabs.ai">Virtualsoul-labs.ai</a> */}
             </p>
             <div className="mt-10 flex items-center justify-center gap-x-6">
-              <a href="" className="rounded-md bg-indigo-600 px-3.5 py-2.5 text-sm font-semibold text-white shadow-sm hover:bg-indigo-500 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-indigo-600">Contact us</a>
+              <a href="" className="rounded-md bg-[#2885AF] px-3.5 py-2.5 text-sm font-semibold text-white shadow-sm hover:bg-[#36B3C9] focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-indigo-600">Contact us</a>
               <a href="about-project.html" className="text-sm font-semibold leading-6 text-gray-900">Learn more <span aria-hidden="true">→</span></a>
             </div>
           </div>
@@ -104,7 +104,7 @@ function App(): ReactElement {
           <div className="mx-auto max-w-7xl px-6 py-24 sm:py-32 lg:flex lg:items-center lg:justify-between lg:px-8">
             <h2 className="text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl">Looking to breathe life into your character? <br />Reach out to us today !!</h2>
             <div className="mt-10 flex items-center gap-x-6 lg:mt-0 lg:flex-shrink-0">
-              <a href="" className="rounded-md bg-indigo-600 px-3.5 py-2.5 text-sm font-semibold text-white shadow-sm hover:bg-indigo-500 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-indigo-600">Contact us</a>
+              <a href="" className="rounded-md bg-[#2885AF] px-3.5 py-2.5 text-sm font-semibold text-white shadow-sm hover:bg-[#36B3C9] focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-indigo-600">Contact us</a>
             </div>
           </div>
         </div>
